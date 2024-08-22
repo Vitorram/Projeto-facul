@@ -1,0 +1,23 @@
+#conteiner1 {
+    height: 300px;
+    width: 80%;
+    background-color: black;
+    display: flex;
+        flex-direction: row;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+       
+}
+
+.box {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+
+.ml-auto {
+    margin: 0 0 0 auto;
+}
+
