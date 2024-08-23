@@ -29,7 +29,7 @@
 #conteiner1 {
     width: 100%;
     height: 500px;
-    background-color: #666666;
+    background-color: #575757;
     display: flex;
         flex-direction: row;
         gap: 400px;
@@ -48,7 +48,7 @@
     
         width: 100px;
         height: 50px;
-        background-color: #310e0e;
+        background-color: #ff0000;
         margin: 210px 10px 0 10px;
     
 }
@@ -60,15 +60,99 @@
 #conteiner3 {
     width: 100%;
     height: 500px;
-    background-color: #724e4e;
+    background-color: #a7a7a7;
     display: flex;
         flex-direction: row;
         justify-content: center;
-        gap: 100px;    
+        gap: 148px;    
         align-items: center;
 }
 .box6 {
     width: 300px;
     height: 400px;
-    background-color: aqua;
+    background-color: rgb(255, 0, 0);
+}
+ #contente4 {
+    width: 100%;
+    height: 200px;
+    background-color: 98%,hsl(258,  50%);
+    display: flex;
+        flex-direction: row;
+        gap: 100px;
+        justify-content: center;
+        align-items: center;
+        
+}
+.box7 {
+    width: 300px;
+    height: 150px;
+    background-color: #ff0000;
+}
+.box8 {
+    width: 800px;
+    height: 150px;
+    background-color: rgb(216, 5, 5);
+}
+#contente5 {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+        flex-direction: row;
+        gap: 100px;
+        justify-content: center;
+        align-items: center;
+        
+}
+.box9{
+    width: 300px;
+    height: 150px;
+    background-color: #fa0000;
+}
+.box10 {
+    width: 800px;
+    height: 150px;
+    background-color: rgb(218, 0, 0);
+}
+
+#conteinerfim {
+ 
+        width: 100%;
+        height: 700px;
+        background-color: #117e3b;
+        display: flex;
+            flex-direction: row;
+            gap: 90px;
+            justify-content: center;
+            align-items: center;
+}       
+.boxinicio {
+    width:300px ;
+    height: 600px;
+    
+    margin: 0 0 0 0;
+    
+}
+.d11 {
+    width: 300px;
+    height: 60px;
+    background-color: #ff0000;
+}
+.d1 {
+    width: 300px;
+    height: 60px;
+    background-color: #ff0000;
+    margin: 500px 0 0 0;
+}
+.grande {
+    width: 400px;
+    height: 500px;
+    background-color: #ff0000;
+    margin: 150px 0 0 0;
+}
+.pequena {
+    width: 300px;
+    height: 100px;
+    background-color: #ff0000;
+    margin: 550px 0 0 0 ;
 }
