@@ -1,0 +1,92 @@
+#page {
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(255, 17, 0);
+    margin: 0 auto;
+
+}
+#header {
+    height: 80px;
+    background-color: rgb(202, 202, 202);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#logo {
+    
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    padding: 10px;
+}
+#menu {
+    height: 40px;
+    width: 350px ;
+    background-color: black;
+    padding: 10px;
+}
+.section {
+    height: 350px;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 1px solid #4b9b48 ;
+    display: flex;
+   
+    
+}
+.s1 {
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+}
+.s2 {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.s2 div{
+    display: flex;
+    gap: 80px;
+    
+}
+#conteiner {
+    
+    width: 350px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+#conteiner1 {
+    background: #a5b419;
+    width: 400px;
+    height: 250px;
+
+    
+}
+
+#box1 {
+    width: 400px;
+    height: 50px;
+    background-color: #f00a0a;
+}
+#box2, #box3 {
+    width: 150px;
+    height: 50px;
+    background-color: #46405a;
+}
+.box4 {
+    width: 150px;
+    height: 100px;
+    background-color: #f00a0a;
+}
+.box5 {
+    width: 400px;
+    height: 100px;
+    background-color: #f00a0a;
+}
+
+
+
