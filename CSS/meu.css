@@ -1,0 +1,27 @@
+body, header {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+header {
+    height: 90px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.box1 {
+    width: 60px;
+    height: 60px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+.b2 {
+    height: 40px;
+    width: 150px;
+
+}

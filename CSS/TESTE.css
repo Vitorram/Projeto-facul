@@ -3,7 +3,7 @@
     
     
 }    
-#conteiner {
+#conteiner{
     width: 100%;
     height: 80px;
     background-color: black;
@@ -26,6 +26,8 @@ h2 {
     color: rgb(255, 255, 255);
     justify-content: center;
     margin: 10px 10px 10px 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 
 }
 H1 {
